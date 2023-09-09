@@ -30,16 +30,12 @@ header img{
 border-radius: 174px;
 padding: 10px;
 width: 300px;
-//box-shadow: 5px 5px 20px red;
 }
 
 .content{
 max-width:1350px;
-margin-left: auto;
-margin-right: auto;
-margin-top: 28px;
-margin-bottom: 10px;
-padding:10px;
+margin: 0 auto;
+padding: 0 20px;
 color:white; 
 font-size:25px;
 text-align: justify;
@@ -70,10 +66,9 @@ border-bottom:2px solid white;
 margin-top: 30px;
 padding:3px;
 letter-spacing:6px;
-
 }
-.capt{
 
+.capt{
 font-size: 23px;
 max-width: 80%;
 display: block;
@@ -85,8 +80,8 @@ color:#82000F;
 p.caption{
 font-size: 20px;
 margin-top: 0px;
-
 }
+
 .parts{
 font-size: 23px;
 max-width: 80%;
