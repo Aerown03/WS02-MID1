@@ -46,7 +46,7 @@ background-image: linear-gradient(#DFA2E5,#DFA2E5,#DFA2E5);
 
 .character-section{
 display: flex;
-align-items: center;
+align-items: space-between;
 width: 97%;
 column-gap:30px;
 margin: 50px auto 70px ;	
