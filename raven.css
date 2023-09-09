@@ -44,18 +44,6 @@ box-shadow: 0px 0px 50px #F4E2E8;
 background-color:#BA5D7E;
 }
 
-.content{
-max-width:1200px;
-margin: 0 auto;
-padding: 0 20px;
-color:white; 
-text-align: justify;
-font-size:25px;
-border-radius: 20px;
-box-shadow: 0px 0px 50px #F4E2E8;
-background-color:#BA5D7E;
-}
-
 .character-section{
 max-width:1000px;
 margin: 0 auto;
