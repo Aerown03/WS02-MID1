@@ -53,8 +53,7 @@ margin: 50px auto 70px ;
 }
 
 .pic {
-position:absolute
-border-radius:20px;
+position:relative;
 margin-top:40px;
 margin-left:  auto;
 margin-right:  auto;
