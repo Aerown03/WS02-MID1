@@ -2,8 +2,8 @@
 font-family: myFont;
 src:url(super.ttf)
 }
-body{
 
+body{
 font-family: 'Bebas Neue', sans-serif;
 background-image: linear-gradient(#743967,#FF716D,#985A8A,#33001C);
 
@@ -35,11 +35,13 @@ width: 300px;
 .content{
 max-width:1350px;
 margin: 0 auto;
+margin-bottom:40px;
+margin-top:20px;
 padding: 0 20px;
 color:white; 
 font-size:25px;
 text-align: justify;
-border-radius: 20px;
+border-radius-top: 20px;
 box-shadow: 0px 0px 50px #F4E2E8;
 background-image: linear-gradient(#882E5A,#743967,#FF716D,#985A8A,#33001C);
 }
